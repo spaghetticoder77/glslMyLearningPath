@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## GLSL - My Learning Path.
 
 You can use the [editor on GitHub](https://github.com/spaghetticoder77/glslMyLearningPath/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
